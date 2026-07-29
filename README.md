@@ -23,8 +23,8 @@ I'm a Software Engineer passionate about designing scalable applications, buildi
 - 🌱 Currently learning Spring Boot, System Design, Docker & Cloud
 - 🚀 Passionate about clean architecture and responsive UI engineering
 - 👨‍💻 Open to Software Engineer and Full Stack Developer opportunities
-- 📫 Reach me: *rohanms0405@gmail.com*
-- 🌐 Portfolio: *https://rohan04-portfolio-zeta.vercel.app/*
+- 📫 Reach me: **rohanms0405@gmail.com**
+- 🌐 Portfolio: **https://rohan04-portfolio-zeta.vercel.app/**
 
 ---
 
